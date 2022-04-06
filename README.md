@@ -1,6 +1,17 @@
-# ListOfSuperheroesAngularStarter
+# List of super heroes // Angular - Starter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+Plantilla **Html5** y **CSS3** con diseños adaptable a móvil (web responsive). El diseño se puede utilizar para desarrollar un **blog** sencillo y minimalista utilizando cualquier lenguaje de programación.
+
+## Creador
+
+**Leyton Manuel Espitia Diaz**
+
+- <https://twitter.com/Leyton_Network>
+- <https://github.com/notyel>
+
+## Copyright and license
+
+Código y documentación copyright 2022 GraphicArt. Código publicado bajo la [licencia MIT](https://github.com/notyel/SimpleBlog/blob/master/LICENSE).
 
 ## Development server
 
