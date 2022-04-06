@@ -1,6 +1,6 @@
 # List of super heroes // Angular - Starter
 
-Pequeña aplicación diseñada para iniciantes en tecnología y/o marco de trabajo **Angular** ☕ con fines de aprendizaje.
+Pequeña aplicación diseñada para iniciantes en la tecnología y/o marco de trabajo **Angular** ☕ con fines de aprendizaje.
 
 #### ¡Bienvenido a este codigo!
 
@@ -10,7 +10,7 @@ Este código fuente esta diseñado para ser analizado por estudiantes y en el mi
 
 Esta aplicación simplemente presenta una lista de super héroes de Marvel y DC Comics, en una interfaz grafica hecha con Bootstrap v5.0. Podrás navegar por las distintas tarjetas de cada super héroes y ver más información del mismo, también podrás hacer uso de un buscador que detectara los registros por coincidencias.
 
-#### Comenzando con Angular
+##### Comenzando con Angular
 
 Angular es un marco de trabajo (framework) de front-end impulsado por Google. Creado para desarrollar aplicaciones web, aplicaciones móviles o realizar procesos del lado del servidor utilizando NodeJS.
 
@@ -18,7 +18,7 @@ Angular es un marco de trabajo (framework) de front-end impulsado por Google. Cr
 
 - Autor - [Leyton Manuel Espitia Diaz](https://github.com/notyel)
 - Twitter - [@leyton_network](https://twitter.com/Leyton_Network)
-- LinkedIn - [CV](https://www.linkedin.com/in/leyton-manuel-espitia-diaz-5497a33b/)
+- LinkedIn - [Curriculum vitae](https://www.linkedin.com/in/leyton-manuel-espitia-diaz-5497a33b/)
 
 ## Copyright y licencia
 
