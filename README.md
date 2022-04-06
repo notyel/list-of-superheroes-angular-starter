@@ -2,10 +2,16 @@
 
 Pequeña aplicación diseñada para iniciantes en tecnología y/o marco de trabajo **Angular** ☕ con fines de aprendizaje.
 
-**¡Bienvenido a este codigo!**
+#### ¡Bienvenido a este codigo!
+
 Este código fuente esta diseñado para ser analizado por estudiantes y en el mismo entender las virtudes y fundamentos que ofrece Angular.
 
-**Comenzando con Angular**
+##### ¿Qué hace el código fuente?
+
+Esta aplicación simplemente presenta una lista de super héroes de Marvel y DC Comics, en una interfaz grafica hecha con Bootstrap v5.0. Podrás navegar por las distintas tarjetas de cada super héroes y ver más información del mismo, también podrás hacer uso de un buscador que detectara los registros por coincidencias.
+
+#### Comenzando con Angular
+
 Angular es un marco de trabajo (framework) de front-end impulsado por Google. Creado para desarrollar aplicaciones web, aplicaciones móviles o realizar procesos del lado del servidor utilizando NodeJS.
 
 ## Creador
