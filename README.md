@@ -1,38 +1,19 @@
 # List of super heroes // Angular - Starter
 
-Plantilla **Html5** y **CSS3** con diseños adaptable a móvil (web responsive). El diseño se puede utilizar para desarrollar un **blog** sencillo y minimalista utilizando cualquier lenguaje de programación.
+Pequeña aplicación diseñada para iniciantes en tecnología y/o marco de trabajo **Angular** ☕ con fines de aprendizaje.
+
+**¡Bienvenido a este codigo!**
+Este código fuente esta diseñado para ser analizado por estudiantes y en el mismo entender las virtudes y fundamentos que ofrece Angular.
+
+**Comenzando con Angular**
+Angular es un marco de trabajo (framework) de front-end impulsado por Google. Creado para desarrollar aplicaciones web, aplicaciones móviles o realizar procesos del lado del servidor utilizando NodeJS.
 
 ## Creador
 
-**Leyton Manuel Espitia Diaz**
+- Autor - [Leyton Manuel Espitia Diaz](https://github.com/notyel)
+- Twitter - [@leyton_network](https://twitter.com/Leyton_Network)
+- LinkedIn - [CV](https://www.linkedin.com/in/leyton-manuel-espitia-diaz-5497a33b/)
 
-- <https://twitter.com/Leyton_Network>
-- <https://github.com/notyel>
+## Copyright y licencia
 
-## Copyright and license
-
-Código y documentación copyright 2022 GraphicArt. Código publicado bajo la [licencia MIT](https://github.com/notyel/SimpleBlog/blob/master/LICENSE).
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Código y documentación copyright 2022 GraphicArt. Código publicado bajo la [licencia MIT](https://github.com/notyel/list-of-superheroes-angular-starter/blob/master/LICENSE).
