@@ -1,0 +1,29 @@
+<div class="bg-light  px-4 py-5  text-center animated fadeIn fast">
+    <img class="d-block mx-auto mb-4" src="assets/img/A-64.png" alt="" width="64" height="64">
+    <h1 class="display-6 fw-bold">Héroes Marvel y DC</h1>
+    <div class="col-lg-6 mx-auto">
+        <p class="lead mb-4">Lista de Superhéroe Marvel y DC Comics más populares del 2022.</p>
+    </div>
+</div>
+
+<div class="row row-cols-1 mt-3 row-cols-md-3 g-4">
+    <div class="col" *ngFor="let heroe of heroes">
+        <div class="card h-100">
+            <img [src]="heroe.img" class="card-img-top" [alt]="heroe.name">
+            <div class="card-body">
+                <h5 class="card-title">{{ heroe.name }}</h5>
+                <p class="card-text bio">{{ heroe.biography }}</p>
+            </div>
+            <div class="card-footer ">
+                <p class="card-text"><small class="text-muted">
+                        <strong>Aparición:</strong> {{ heroe.appearance }}</small>
+                </p>
+            </div>
+            <div class="card-footer bg-white">
+                <div class="d-grid gap-2">
+                    <button class="btn btn-outline-primary" type="button">Ver más...</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
