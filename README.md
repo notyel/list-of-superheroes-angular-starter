@@ -14,6 +14,12 @@ Esta aplicación simplemente presenta una lista de super héroes de Marvel y DC 
 
 Angular es un marco de trabajo (framework) de front-end impulsado por Google. Creado para desarrollar aplicaciones web, aplicaciones móviles o realizar procesos del lado del servidor utilizando NodeJS.
 
+## Poner en marcha
+
+* Ejecutar `npm install`
+* Ejecutar `ng serve`
+* Ir a `http://localhost:5340`
+
 ## Creador
 
 - Autor - [Leyton Manuel Espitia Diaz](https://github.com/notyel)
@@ -23,3 +29,5 @@ Angular es un marco de trabajo (framework) de front-end impulsado por Google. Cr
 ## Copyright y licencia
 
 Código y documentación copyright 2022 GraphicArt. Código publicado bajo la [licencia MIT](https://github.com/notyel/list-of-superheroes-angular-starter/blob/master/LICENSE).
+
+
