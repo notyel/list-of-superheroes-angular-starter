@@ -26,8 +26,8 @@ Angular es un marco de trabajo (framework) de front-end impulsado por Google. Cr
 - Twitter - [@leyton_network](https://twitter.com/Leyton_Network)
 - LinkedIn - [Curriculum vitae](https://www.linkedin.com/in/leyton-manuel-espitia-diaz-5497a33b/)
 
-## Copyright y licencia
+## Licencia
 
-Código y documentación: copyright 2022. Código publicado bajo la [licencia MIT](https://github.com/notyel/list-of-superheroes-angular-starter/blob/master/LICENSE).
+Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 
