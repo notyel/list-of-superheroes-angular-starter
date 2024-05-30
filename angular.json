@@ -71,10 +71,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "list-of-superheroes-angular-starter:build:production"
+              "buildTarget": "list-of-superheroes-angular-starter:build:production"
             },
             "development": {
-              "browserTarget": "list-of-superheroes-angular-starter:build:development"
+              "buildTarget": "list-of-superheroes-angular-starter:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -82,7 +82,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "list-of-superheroes-angular-starter:build"
+            "buildTarget": "list-of-superheroes-angular-starter:build"
           }
         },
         "test": {
@@ -104,6 +104,5 @@
         }
       }
     }
-  },
-  "defaultProject": "list-of-superheroes-angular-starter"
+  }
 }
