@@ -66,7 +66,11 @@ export class HeroesService {
 
   constructor() {}
 
-  getHeroes() {
+  public getHeroes(): Heroe[] {
     return this.heroes;
+  }
+
+  public getHeroe(idx: number): Heroe {
+    return this.heroes[idx];
   }
 }
