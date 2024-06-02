@@ -10,28 +10,30 @@
     <br /><br />
     <a [routerLink]="['/heroes']" class="btn btn-outline-danger btn-block"
       >Regresar</a
-    >
-  </div>
+      >
+    </div>
 
-  <div class="col-md-8">
-    <h3>{{ heroe.name }}</h3>
-    <hr />
-    <p>
-      {{ heroe.biography }}
-    </p>
-    <div>
-      <img
-        *ngIf="heroe.franchise == 'Marvel'"
-        class="img-logo"
-        src="assets/img/marvel-logo.png"
-        alt="DC"
-      />
-      <img
-        *ngIf="heroe.franchise == 'DC'"
-        class="img-logo"
-        src="assets/img/dc-logo.jpg"
-        alt="Marvel"
-      />
+    <div class="col-md-8">
+      <h3>{{ heroe.name }}</h3>
+      <hr />
+      <p>
+        {{ heroe.biography }}
+      </p>
+      <div>
+        @if (heroe.franchise == 'Marvel') {
+          <img
+            class="img-logo"
+            src="assets/img/marvel-logo.png"
+            alt="DC"
+            />
+        }
+        @if (heroe.franchise == 'DC') {
+          <img
+            class="img-logo"
+            src="assets/img/dc-logo.jpg"
+            alt="Marvel"
+            />
+        }
+      </div>
     </div>
   </div>
-</div>
